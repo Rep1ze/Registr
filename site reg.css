@@ -1,0 +1,39 @@
+html{
+    background-color: black;
+    background-image: none;
+}
+.email{
+    position: relative;
+    top: 100px;
+    input:valid{
+        color: green;
+        box-shadow: none;
+    }
+    input:invalid{
+        color: red;
+        
+    }
+}
+h1{
+    color: white;
+    font: 1em sans-serif;
+    position: relative;
+    top: 50px;
+    
+}
+.password{
+    position: relative;
+    top: 150px;
+    right: 245px;
+}
+h2{
+    position: relative;
+    top: 95px;
+    font: 1em sans-serif;
+    color: white;
+}
+.final{
+    position: relative;
+    top: 200px;
+    right: 150px;
+}
